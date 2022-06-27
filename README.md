@@ -4,7 +4,7 @@ I am a beginner software engineer from Poland. Currently aiming to master Python
 
 Connect with me:
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/s%C5%82awomir-czech-25773a243/)<br>
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/s%C5%82awomir-czech-25773a243/)[<img align="left" alt="uekat" src="https://img.shields.io/badge/-UEKAT-00205B?style=for-the-badge" />](https://www.ue.katowice.pl/pracownicy/wydzial-zarzadzania/katedra-ekonomii-politycznej/slawomir-czech.html)<br>
 <br>
 Areas of future expertise:
 

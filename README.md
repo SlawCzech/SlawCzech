@@ -1,12 +1,12 @@
 **Hi!**
 
-I am a beginner software engineer from Poland. Currently aiming to master Python, Django and HTML/CSS
+I am a beginner software engineer from Poland. Currently aiming to master Python, Django, Postgres and HTML/CSS
 
-Connect with me
+Connect with me:
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/s%C5%82awomir-czech-25773a243/)[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://56faisal.medium.com/)[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/56faisal/)[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694)<br>
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/s%C5%82awomir-czech-25773a243/)<br>
 <br>
-Expertise
+Areas of future expertise:
 
-<img align="left" alt="python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /><img align="left" alt="django" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" /><img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /><img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /><img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /><img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><br>
+<img align="left" alt="python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /><img align="left" alt="django" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" /><img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /><img align="left" alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" /><img align="left" alt="css3" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" /><br>
 <br>

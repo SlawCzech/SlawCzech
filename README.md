@@ -1,6 +1,6 @@
 **Hi!**
 
-I am a beginner software engineer from Poland. Currently aiming to master Python, Django, Postgres and HTML/CSS
+I am a python developer and data scientist from Poland. 
 
 Connect with me:
 

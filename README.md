@@ -1,6 +1,6 @@
 **Hi!**
 
-I am a python developer and data scientist from Poland. 
+I am an economist, scholar, python developer and data scientist from Poland. 
 
 Connect with me:
 

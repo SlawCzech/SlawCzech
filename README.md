@@ -12,4 +12,4 @@ Areas of expertise:
 <br>
 
 
-![Codewars](https://github.r2v.ch/codewars?user=SlawCzech&stroke=white)
+![Codewars](https://github.r2v.ch/codewars?user=SlawCzech&stroke=%23BB432C)

@@ -10,3 +10,5 @@ Areas of expertise:
 
 <img align="left" alt="python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /><img align="left" alt="django" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" /><img align="left" alt="pandas" src="https://img.shields.io/badge/-Pandas-3776AB?logo=pandas&logoColor=white&style=for-the-badge" /><img align="left" alt="numpy" src="https://img.shields.io/badge/-NumPy-3776AB?logo=numpy&logoColor=white&style=for-the-badge" /><img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <br>
+
+![Codewars](https://github.r2v.ch/codewars?user=SlawCzech&stroke=%23BB432C)
